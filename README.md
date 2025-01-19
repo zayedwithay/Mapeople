@@ -2,6 +2,7 @@
 
 This project demonstrates the integration of **Mapbox** with React for building an interactive map application. It includes key features such as displaying markers and fetching location data dynamically. Below is a breakdown of what was implemented.
 PREVIEW:
+![MAP Preview](./Preview.png)
 
 ## Features Implemented
 
